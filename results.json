@@ -1,0 +1,86 @@
+https://upload.wikimedia.org/wikipedia/commons/e/e7/Leptotyphlops_carlae.jpg
+
+{
+    "result": [
+        {
+            "class": "n01784675 - centipede",
+            "score": "0.59463"
+        },
+        {
+            "class": "n01945685 - slug",
+            "score": "0.15623"
+        },
+        {
+            "class": "n01944390 - snail",
+            "score": "0.05583"
+        },
+        {
+            "class": "n01950731 - octopus?",
+            "score": "0.02974"
+        },
+        {
+            "class": "n01917289 - (coral plant ?)",
+            "score": "0.02593"
+        },
+        {
+            "class": "n01768244 - trilobite",
+            "score": "0.02195"
+        },
+        {
+            "class": "n01770393 - scorpion",
+            "score": "0.02050"
+        },
+        {
+            "class": "n01742172 - snake",
+            "score": "0.01822"
+        },
+        {
+            "class": "n01984695 - crab?",
+            "score": "0.01091"
+        },
+        {
+            "class": "n01774384 - small spider",
+            "score": "0.01025"
+        },
+        {
+            "class": "n01443537 - goldfish",
+            "score": "0.00936"
+        },
+        {
+            "class": "n01641577 - frog",
+            "score": "0.00771"
+        },
+        {
+            "class": "n01774750 - large hairy spider",
+            "score": "0.00760"
+        },
+        {
+            "class": "n01910747 - jelly fish",
+            "score": "0.00700"
+        },
+        {
+            "class": "n01629819 - lizard",
+            "score": "0.00603"
+        },
+        {
+            "class": "n01855672 - goose",
+            "score": "0.00455"
+        },
+        {
+            "class": "n01644900 - toad",
+            "score": "0.00412"
+        },
+        {
+            "class": "n01882714 - koala",
+            "score": "0.00360"
+        },
+        {
+            "class": "n01698640 - alligator",
+            "score": "0.00325"
+        },
+        {
+            "class": "n01983481 - lobster",
+            "score": "0.00260"
+        }
+    ]
+}
